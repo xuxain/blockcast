@@ -13,7 +13,7 @@ Blockcast 节点操作指南
 注册完成  
 ## 运行步骤
 ```bash
-wget https://raw.githubusercontent.com/bangpateng/blockcast/refs/heads/main/blockcast.sh && chmod +x blockcast.sh && ./blockcast.sh
+wget https://raw.githubusercontent.com/xuxain/blockcast/refs/heads/main/blockcast.sh && chmod +x blockcast.sh && ./blockcast.sh
 ```
 选择选项 1（安装）  
 确保挑战 ID（Challange ID）、硬件 ID（Hardware ID）与注册信息一致  
